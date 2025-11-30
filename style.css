@@ -207,7 +207,7 @@ hr {
 
 .about-container{
     display: flex;
-    gap: 2rem;
+    gap: 6rem;
 }
 
 .about img{
@@ -877,4 +877,5 @@ body {
   html, body {
     overflow-x: hidden;
   }
+
 }
