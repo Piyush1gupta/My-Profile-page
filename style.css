@@ -211,11 +211,10 @@ hr {
 }
 
 .about img{
-    position: relative;
-    bottom: 85px;
-    width: 400px;
-    height: 400px;
-    border-radius: 15px;
+    bottom: 10px;
+    width: 360px;
+    height: auto;
+    border-radius: 16px;
     border: 1px solid black;
 }
 
@@ -879,3 +878,4 @@ body {
   }
 
 }
+
